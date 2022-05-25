@@ -60,4 +60,4 @@ module.exports = {
     "switch-colon-spacing": "error",
     "template-tag-spacing": ["error", "always"],
   }
-};
+}
